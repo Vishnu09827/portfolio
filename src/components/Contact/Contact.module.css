@@ -1,6 +1,6 @@
-/* components/Contact/Contact.module.css */
 .contact {
   background-color: var(--bg-color);
+  color: var(--text-color);
 }
 
 .wrapper {

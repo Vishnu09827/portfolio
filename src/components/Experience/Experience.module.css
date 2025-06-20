@@ -3,6 +3,7 @@
   padding: 5rem 0;
   background-color: var(--card-bg);
   position: relative;
+  color: var(--text-color);
 }
 
 .container {

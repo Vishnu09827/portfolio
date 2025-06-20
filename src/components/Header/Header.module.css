@@ -41,6 +41,7 @@
   font-weight: 600;
   position: relative;
   padding: 5px 0;
+  color: var(--text-color);
 }
 
 .nav a::after {

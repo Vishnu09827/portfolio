@@ -1,6 +1,7 @@
 .projects {
   background-color: var(--card-bg);
   padding: 60px 0;
+  color: var(--text-color);
 }
 
 .filters {

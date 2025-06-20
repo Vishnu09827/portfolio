@@ -21,7 +21,7 @@ const projects = [
     id: 2,
     title: "Learning Management System (LMS)",
     description:
-      "A full-featured LMS platform combining comprehensive course management with an in-browser coding environment. The system features a Sandpack-powered code editor supporting 5+ programming languages, multi-format assessment tools (MCQs, descriptive answers, video submissions, and coding challenges with test case validation), and robust admin capabilities including content management, analytics dashboards, and Course and its content allocation. Built with React/Node.js on a microservice architecture, the platform incorporates AI-assisted grading, real-time collaboration features, and SCORM-compliant content delivery, serving over 2,500 monthly active users with sub-second response times. ",
+      "A full-featured LMS platform combining comprehensive course management with an in-browser coding environment. The system features a Sandpack-powered code editor supporting 5+ programming languages, multi-format assessment tools (MCQs, descriptive answers, video submissions, and coding challenges with test case validation), and robust admin capabilities including content management, analytics dashboards, and Course and its content allocation.",
     tags: ["React", "Node.js", "MySQL", "AWS", "Material UI", "Sandpack"],
     image: project2,
     github: "https://github.com/Vishnu09827/",
